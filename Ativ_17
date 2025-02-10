@@ -1,0 +1,3 @@
+boolean isQualifiedForDiscount(int age, boolean isStudent) {
+    return age > 60 || isStudent;
+}
