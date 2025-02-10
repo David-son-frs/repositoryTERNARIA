@@ -1,0 +1,3 @@
+String freteGratis(double valor) {
+    return (valor >= 100) ? "Frete Grátis" : "Frete não incluso";
+}
