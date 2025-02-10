@@ -1,0 +1,3 @@
+String verificarNumero(int num) {
+    return (num >= 0) ? "Positivo ou Zero" : "Negativo";
+}
