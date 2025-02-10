@@ -1,0 +1,3 @@
+String statusAluno(double nota) {
+    return (nota >= 7) ? "Aprovado" : (nota >= 5 && nota <= 6.9) ? "Recuperação" : "Reprovado";
+}
