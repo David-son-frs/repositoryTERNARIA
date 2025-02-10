@@ -1,0 +1,3 @@
+String verificarIntervalo(int num) {
+    return (num >= 20 && num <= 30) ? "Dentro do intervalo" : "Fora do intervalo";
+}
